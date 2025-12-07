@@ -1,34 +1,48 @@
 html {
-    background: #FFF;
-    font-family:  Arial, Helvetica, sans-serif;
-    font-size: 14px;
- }
+    	background: #FFF;
+	font-size:100%;
+	background:none;
+    	font-family:  Arial, Helvetica, sans-serif;
+}
 
 body {
-    color: #151515;  
-    text-align: justify; 
-    margin: 50px 200px 200px 100px;
-      }
+    	text-align: justify; 
+	line-height:21px;
+	margin:0px;
+	font-size:13px;
+	background-color:#F5F3ED;
+}
 
-#page {
-    width: 980px;
-    margin: 0 auto;
+h1 {
+	font-size:40px;
+	padding:30px 5px 0 20px;
+}
+
+#wrapper {
+	width:900px;
+	margin:0 auto;
+	padding:5px 5px 10px 0;
+}
+
+#header .top_banner{
+	background:url(header.png) no-repeat top right;
+	height:200px;
+ 	background-size: cover;
+	padding:65px 95px 0 65px;
 }
 
 p{
     margin: 0 0 20px 0 ;
-line-height:20px;
-	
+	line-height:20px;	
 }
 
-h1{
+h2{
     margin: 5px 20 5px;
     padding: 0;
     border-bottom: 1px solid #050555;
 }
-
    
-h2{
+h3{
     margin: 5px 20 5px;
     padding: 0;
     border-bottom: 1px solid #050555;
@@ -41,4 +55,5 @@ a:link {
 dd {
     padding: 0 0 0.5em 0;
   }
+
 
