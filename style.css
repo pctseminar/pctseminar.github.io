@@ -1,12 +1,12 @@
 html {
-    	background: #FFF;
+    background: #FFF;
 	font-size:100%;
 	background:none;
     	font-family:  Arial, Helvetica, sans-serif;
 }
 
 body {
-    	text-align: justify; 
+    text-align: justify; 
 	line-height:21px;
 	margin:0px;
 	font-size:13px;
@@ -25,7 +25,7 @@ h1 {
 }
 
 #header .top_banner{
-	background:url(header.png) no-repeat top right;
+	background:url(header.jpg) no-repeat top right;
 	height:200px;
  	background-size: cover;
 	padding:65px 95px 0 65px;
@@ -55,6 +55,7 @@ a:link {
 dd {
     padding: 0 0 0.5em 0;
   }
+
 
 
 
