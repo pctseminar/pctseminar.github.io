@@ -10,7 +10,7 @@ body {
 	line-height:21px;
 	margin:0px;
 	font-size:13px;
-	background-color:#F5F3ED;
+	background-color:#FFFDF7;
 }
 
 h1 {
@@ -25,11 +25,12 @@ h1 {
 }
 
 #header .top_banner{
-	background:url(header.png) no-repeat top right;
+	background:url(header.jpg) no-repeat top right;
 	height:200px;
  	background-size: cover;
 	padding:65px 95px 0 65px;
 }
+
 
 p{
     margin: 0 0 20px 0 ;
@@ -45,7 +46,6 @@ h2{
 h3{
     margin: 5px 20 5px;
     padding: 0;
-    border-bottom: 1px solid #050555;
 }
 
 a:link {
@@ -55,7 +55,5 @@ a:link {
 dd {
     padding: 0 0 0.5em 0;
   }
-
-
 
 
